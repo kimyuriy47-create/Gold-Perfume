@@ -1,0 +1,6 @@
+{
+  "name": "Scent Boutique",
+  "description": "Онлайн магазин элитной парфюмерии. Мини-наборы 20мл и полные флаконы мировых брендов.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
